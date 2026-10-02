@@ -437,3 +437,8 @@ This project is private and for internal use only.
 ---
 
 > Built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Radix UI**
+---
+
+## Author
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
